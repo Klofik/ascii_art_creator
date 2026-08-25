@@ -2,7 +2,7 @@
 
 A simple Python application that loads an image and turns it into ASCII art characters.
 
-![App Screenshot](Знімок екрана 2026-08-25 125609.png)
+![App Screenshot](67.png)
 
 ## Features
 
