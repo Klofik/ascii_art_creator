@@ -8,7 +8,7 @@ from pathlib import Path
 from PIL import Image
 from tkinter import filedialog, messagebox, ttk
 
-from . import FULL_RAMP, build_charset, to_ascii
+from ascii_art_gui import FULL_RAMP, build_charset, to_ascii
 
 APP_TITLE = "ASCII-Арт"
 BG = "#f4e8c1"  # кремовий фон

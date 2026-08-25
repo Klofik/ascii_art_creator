@@ -1,0 +1,8 @@
+# ASCII Art Creator - runtime dependencies
+# Python 3.10+
+
+# Image loading, validation, grayscale conversion, and resizing
+Pillow>=10.0,<13.0
+
+# tkinter is included with standard Python installations.
+# Windows users do not need to install it separately.
