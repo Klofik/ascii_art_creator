@@ -38,7 +38,7 @@ jobs:
           pip install pyinstaller
 
       - name: Build with PyInstaller
-        run: pyinstaller --onefile --name ${{ matrix.artifact_name }} gui.py
+        run: pyinstaller --onefile --name ${{ matrix.artifact_name }} ascii_art_gui.py
 
       - name: Upload Artifact to Release
         uses: softprops/action-gh-release@v2
